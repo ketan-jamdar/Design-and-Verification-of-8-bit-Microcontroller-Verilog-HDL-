@@ -278,7 +278,7 @@ This program validates the shift and rotate instructions, including logical shif
 
 The functionality of the proposed 8-bit Microcontroller was verified through functional simulation using Siemens QuestaSim. The generated waveforms demonstrate the correct execution of various instruction types, including memory, arithmetic, logic, and shift/rotate operations. The simulation results confirm proper instruction fetch, decode, and execute cycles, along with correct updates to the Program Counter (PC), Accumulator (ACC), Instruction Register (IR), Data Register (DR), Status Register (SR), and Data Memory (DMem). These results validate the overall functionality and correctness of the processor architecture.
 
-The corresponding simulation waveforms for each test program are provided in the simulation_results/ directory.
+The corresponding simulation waveforms for each test program are provided in the **simulation_results/** directory.
 
 ### Complete Execution
 
