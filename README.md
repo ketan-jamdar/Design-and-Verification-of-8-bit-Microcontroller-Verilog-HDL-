@@ -19,7 +19,8 @@ For verification I wrote multiple test programs in a binary file & loaded them i
 - Designed a custom 8-bit Harvard Architecture Microcontroller
 - Developed in Verilog HDL
 - 12-bit custom instruction format
-- 3-stage instruction execution:
+- 4-stage instruction execution:
+  - Load
   - Fetch
   - Decode
   - Execute
