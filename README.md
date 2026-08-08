@@ -281,8 +281,6 @@ The functionality of the proposed 8-bit Microcontroller was verified through fun
 
 The corresponding simulation waveforms for each test program are provided in the **simulation_results/** directory.
 
-### Complete Execution
-
 ## Tools Used
 
 - Xilinx Vivado (RTL Coding)
