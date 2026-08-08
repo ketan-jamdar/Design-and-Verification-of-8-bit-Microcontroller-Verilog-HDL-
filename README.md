@@ -171,7 +171,7 @@ Each instruction needs 3 clock cycles to finish, i.e. FETCH stage, DECODE stage,
      ```text
      SR = ALU.Status
      ```
-The transitions can be simplified using enable port of corresponding registers, e.g. assign ALU.Out to Acc at every clock rising edge if Acc.E is set to 1. Such control signals as Acc.E are generated as a boolean function of both current state and the current instruction.
+The transitions can be simplified using enable port of corresponding registers, e.g. assign ALU. Out to Acc at every clock rising edge if Acc.E is set to 1. Such control signals as Acc.E are generated as a boolean function of both current state and the current instruction.
 
 ## Verification Strategy
 
