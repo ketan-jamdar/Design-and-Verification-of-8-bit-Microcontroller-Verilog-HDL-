@@ -28,7 +28,7 @@ For verification I wrote multiple test programs in a binary file & loaded them i
 - Separate Program Memory and Data Memory
 - Binary instruction program loading using `$readmemb`
 - Functional verification using multiple test programs
-- Simulation performed in Xilinx Vivado
+- Simulation performed in QuestaSim
 
 ## Processor Architecture
 
